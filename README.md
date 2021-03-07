@@ -14,18 +14,18 @@
 
 ## Required Packages in case of using script independently
 
-* colorama 
-* IPy
-* Socket
----
-
-## Sample Testing Links
-
 * socket
 * IPy
 * datetime
 * os
 * colorama 
+---
+
+## Sample Testing Links
+
+* testphp.vulnweb.com
+* ftptest.net
+* demo.testfire.net
 
 
 ---
